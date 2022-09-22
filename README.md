@@ -51,7 +51,7 @@ The following tools were used in this project:
 ## :white_check_mark: Requirements
 
 You just need a browser.
-https://sevetoo.github.io/text-finder/
+https://sevetoo.github.io/drink-water-app
 
 ## :checkered_flag: Starting
 
